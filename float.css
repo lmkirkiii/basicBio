@@ -1,0 +1,12 @@
+clearfix::after{
+    display:block;
+    clear: both;
+    content: " ";
+
+}
+aside{
+    float:left;
+}
+main{
+    float: left;
+}

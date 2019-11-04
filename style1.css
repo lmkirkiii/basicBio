@@ -1,0 +1,16 @@
+footer{
+    background-color: grey;
+    width: 100px;
+    height: 100px;
+    border: 1px solid white;
+}
+header{
+    background-color: brown;
+    border: 1px solid white;
+}
+#main{
+    background-color: red;
+}
+aside{
+    background-color: cornflowerblue
+}
